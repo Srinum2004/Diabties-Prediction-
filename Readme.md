@@ -1,6 +1,8 @@
 # Diabetes Prediction Web Application 🩺✨
 
 This project implements a machine learning model to predict the likelihood of diabetes based on various health parameters. It includes a Jupyter Notebook for data analysis, model training, and evaluation, and a Flask web application for easy deployment and interaction with the trained model.
+<img width="1920" height="1080" alt="Screenshot 2025-07-17 151936" src="https://github.com/user-attachments/assets/f2a1aa83-5a7e-40f3-b891-e7e4ef76fd08" />
+
 
 ## Table of Contents
 
@@ -157,7 +159,10 @@ Once the model and scaler are saved:
 
 ## Output Screenshot 📸
 
-*(Add a screenshot of your web application's prediction output here to make your README more visually appealing!)*
+<img width="1920" height="1080" alt="Screenshot 2025-07-17 151803" src="https://github.com/user-attachments/assets/eed7c902-2d25-40fd-a7c4-a3bd74116bb8" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-17 152128" src="https://github.com/user-attachments/assets/24129205-ae2f-46b1-b734-cefdbb52ece1" />
+
+
 
 ## Model Details
 
